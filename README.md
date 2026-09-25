@@ -4,7 +4,7 @@ Build a little paper machine that **looks at an object and sorts it** left or ri
 
 This is an adaptation of Google's [Tiny Sorter](https://experiments.withgoogle.com/tiny-sorter/view/) experiment, changed so it works with an **Arduino Uno**.
 
-👉 **Open the sorter page here:** LINK_GOES_HERE
+👉 **Open the sorter page here:** https://kingston-hackspace.github.io/Tiny_Sorter_ArduinoUNO/
 
 No coding needed. You'll just follow the steps below.
 
