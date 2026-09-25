@@ -600,23 +600,7 @@ function windowResized() {
   rightClassSelector = new ClassInput(false);
   splashRight = new Splash(false);
   splashLeft = new Splash(true);
-  loadModel = new Clickable();
   connect.position(width - 200, 20);
-  loadModel.resize(145, 40);
-  loadModel.locate(300, 15);
-  loadModel.strokeWeight = 0;
-  loadModel.color = '#E8F0FE';
-  loadModel.text = 'LOAD MODEL';
-  loadModel.textSize = 18;
-  loadModel.textColor = '#1967d2';
-  loadModel.onPress = () => {
-    loadModel.text = 'MODEL LOADED';
-    setTimeout(() => {
-      loadModel.text = 'REFRESH MODEL'
-    }, 3000);
-  }
-  // connect.textFont = poppinsRegular;
-  loadModel.textFont = poppinsRegular;
 }
 
 function mousePressed() {
