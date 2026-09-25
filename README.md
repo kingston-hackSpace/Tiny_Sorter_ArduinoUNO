@@ -85,7 +85,7 @@ No extra libraries are needed.
 ## 5. Run the sorter
 
 1. Plug in the Arduino.
-2. Open the sorter page link : 👉 **Open the sorter page here:** https://kingston-hackspace.github.io/Tiny_Sorter_ArduinoUNO/
+2. 👉 **Open the sorter page here:** https://kingston-hackspace.github.io/Tiny_Sorter_ArduinoUNO/
 3. When the browser asks, click **Allow** to let it use the camera.
 4. Paste your model link into the **Paste model link here** box, then click **LOAD MODEL**.
 5. Click **CONNECT ARDUINO** (top right), select the **Arduino Uno** in the pop-up, and click **Connect**. Wait a couple of seconds.
